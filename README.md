@@ -1,22 +1,26 @@
 # Hi there 👋 I'm Ashwin Prasad
-----
-You can reach me at ashwin@onpar.in
 
-<p align='center'>
-  A Blockchain and Full Stack developer from India. Keen on building on any non-ponzi chain
-</p>
+### A Blockchain and Full Stack developer from India. Keen on building for adoption using non-ponzi schemes (😉)
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:pashwin@onpar.in'>ashwin@onpar.in</a>
-</p>
+📫 How to reach me: <a href='mailto:pashwin@onpar.in'>ashwin@onpar.in</a>
 
 ---
 
-Currently working on web3 adoption 
+Considerably experienced in Smart Contract Development, NodeJS Servers, Flutter / React-Native mobile apps and react web apps. So web3 full stack I guess?
 
+<table border="0">
+  <tr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3fkon&count_private=true&theme=radical" alt="Ashwin's github stats" />
-
+    
+  </tr>
+  
+  <tr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3fkon&layout=compact&theme=radical" />
+    
+  </tr>
+</table>
+
+
 
 <p align="center"> 
   Visitor count<br>
