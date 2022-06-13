@@ -16,7 +16,7 @@ Considerably experienced in Smart Contract Development, NodeJS Servers, Flutter 
   </tr>
   
   <tr>
-    <td?
+    <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3fkon&layout=compact&theme=radical" />
     </td>
   </tr>
