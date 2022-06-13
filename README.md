@@ -10,13 +10,15 @@ Considerably experienced in Smart Contract Development, NodeJS Servers, Flutter 
 
 <table border="0">
   <tr>
+    <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3fkon&count_private=true&theme=radical" alt="Ashwin's github stats" />
-    
+    </td>
   </tr>
   
   <tr>
+    <td?
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3fkon&layout=compact&theme=radical" />
-    
+    </td>
   </tr>
 </table>
 
